@@ -1,0 +1,14 @@
+{
+  "name": "qnnp/webman-user",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin qnnp/webman-user",
+  "require": {
+    "vendor/qnnp/webman-route": ">=0.0.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Qnnp\\WebmanUser\\": "src"
+    }
+  }
+}
